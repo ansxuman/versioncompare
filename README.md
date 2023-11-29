@@ -47,7 +47,7 @@ if err != nil {
 if isEqual {
     // Do something if currentVersion is equal to requiredVersion
 }
-
+```
 
 # License
 This library is released under the MIT License. See LICENSE for more information.
