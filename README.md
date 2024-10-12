@@ -6,7 +6,7 @@ The `versioncompare` library provides functions for comparing version strings in
 
 To install the library, use the `go install` command:
 
-go install  github.com/aenmo/versioncompare
+go install  github.com/ansxuman/versioncompare
 
 
 ## Usage
@@ -14,7 +14,7 @@ go install  github.com/aenmo/versioncompare
 1. Import the `versioncompare` package in your Go code:
 
 ```go
-import "github.com/aenmo/versioncompare"
+import "github.com/ansxuman/versioncompare"
 
 To compare two versions, use the IsGreater, IsLess, or IsEqual functions from the versioncompare package:
 
